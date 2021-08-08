@@ -8,3 +8,8 @@ Here is a spot where we can add some introductory ZK resources:
 * [Where's Waldo example](http://www.wisdom.weizmann.ac.il/~naor/PAPERS/waldo.pdf)
 * [Str4d presenting the Billiard Balls example at ZK0x01](https://www.youtube.com/watch?v=Y9YgRDJAFEE&t=12s)
 * [Sudoku ZKP example](http://www.wisdom.weizmann.ac.il/~naor/PAPERS/SUDOKU_DEMO/)
+
+
+Here are further resources on 
+[SNARKs](https://github.com/ZeroKnowledgefm/zkSNARKs)
+[STARKs](https://github.com/ZeroKnowledgefm/STARKs)
