@@ -11,5 +11,5 @@ Here is a spot where we can add some introductory ZK resources:
 
 
 Here are further resources on 
-[SNARKs](https://github.com/ZeroKnowledgefm/zkSNARKs)
+[SNARKs](https://github.com/ZeroKnowledgefm/zkSNARKs) & 
 [STARKs](https://github.com/ZeroKnowledgefm/STARKs)
